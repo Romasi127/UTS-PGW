@@ -1,0 +1,39 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: #f7f7f7;
+  margin: 20px;
+  text-align: center;
+}
+
+.foto-item {
+  background: white;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 10px;
+  display: inline-block;
+  width: 250px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+img {
+  width: 100%;
+  border-radius: 8px;
+}
+
+form {
+  margin-top: 10px;
+}
+
+input {
+  width: 70%;
+  padding: 5px;
+}
+
+button {
+  padding: 6px 10px;
+  cursor: pointer;
+  background-color: #007bff;
+  border: none;
+  color: white;
+  border-radius: 5px;
+}
